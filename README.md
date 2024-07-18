@@ -12,5 +12,5 @@ The Quiz App Backend is designed to provide the necessary functionality to suppo
 
 - Java Spring Boot: Backend framework for building robust and scalable applications.
 - Spring Data JPA: Simplifies data access and manipulation with the database.
-- MySQL: Relational database management system for storing quiz data.
+- PostgreSQL: Relational database management system for storing quiz data.
 - Maven: Dependency management tool for Java projects.
